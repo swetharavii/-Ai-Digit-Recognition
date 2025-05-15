@@ -19,5 +19,3 @@ Achieved approximately 98% test accuracy.
 ## Technologies
 Python, TensorFlow, Matplotlib
 
-## Author
-Your Name
