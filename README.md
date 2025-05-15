@@ -5,8 +5,7 @@ This project uses a neural network to recognize handwritten digits (0–9) using
 ## Files Included
 - mnist_digit_recognition.py (Python script)
 - MNIST_Digit_Recognition_Colab.ipynb (Google Colab notebook)
-- output_example.png (Sample model output image)
-- Step_by_Step_Guide.pdf (How to run this project)
+- output_image.png (Sample model output image)
 
 ## How to Run
 - Open the Colab notebook and run all cells.
